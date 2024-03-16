@@ -1,8 +1,12 @@
 # :eyeglasses: VERVE EYES
-***
-##SLOGAN y video
-***
 
+### Slogan
+Verve Eyes: Filling the world with color with every glance.
+
+### Videos
+[https://drive.google.com/drive/folders/1PGyeyPRBOC39bfTG5zmuIMr4D95QQq6a?usp=sharing](https://drive.google.com/drive/folders/1PGyeyPRBOC39bfTG5zmuIMr4D95QQq6a?usp=sharing)
+
+### Description
 Individuals with restricted visibility may have limited perception of their environment, which can be harmful. Identifying impediments and potential threats becomes difficult, especially when the distance between the object and the person is short, preventing quick responses, particularly to moving things. Typically, the only aid available for perceiving the environment is the cane's limited reach, which enhances vulnerability and diminishes autonomy. In this context, our solution seeks to supplement ambient information by not only recognizing adjacent items but also generating hazard signals to improve a person's safety, particularly in new settings.
 
 ### Previous works
