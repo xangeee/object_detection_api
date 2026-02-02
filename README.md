@@ -3,9 +3,6 @@
 ### Slogan
 Verve Eyes: Filling the world with color with every glance.
 
-### Vídeos
-https://drive.google.com/drive/folders/1V0UPN-UHKq-Abs3D0JHlEa-H2rQgP1sg?usp=drive_link
-
 ### Descripción
 
 Para las personas con visibilidad reducida, la percepción del entorno puede resultar limitada y, a menudo, peligrosa. Identificar obstáculos y riesgos potenciales se convierte en una tarea desafiante, especialmente cuando la distancia entre el objeto y la persona es mínima, lo que impide una reacción oportuna, sobre todo ante objetos móviles. Habitualmente, la única ayuda disponible para reconocer el entorno es el alcance limitado de un bastón, lo que incrementa la vulnerabilidad y reduce la autonomía. En este contexto, nuestra herramienta tiene como objetivo complementar la información del entorno, no solo detectando objetos cercanos, sino también proporcionando alertas de peligro para mejorar la seguridad de la persona, especialmente en entornos desconocidos.
