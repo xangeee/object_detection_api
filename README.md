@@ -28,16 +28,6 @@ Programming Language: python
 Main libraries: TensorFlow, Matplotlib, Numpy, FastAPI, cv2  
 Machine Learning Model: Faster R-Convolutional Neural Network
 
-### El Equipo
-
-
-- [👩‍🔬 Isis Gómez](https://github.com/Isisgldev)
-- [👩‍💻 Ange Xu](https://github.com/xangeee)
-- [👩‍💻 Satvika Santhoshi Marakala](https://github.com/)
-- [👩‍💻 Rongrong Zhang](https://github.com/rzhan6)
-- [👩‍🎨 Carolina Papes](https://github.com/)
-- [🧑‍💻 Sneyder Murillo Maza](https://github.com/)
-
 ### Bibliografía
 
 + (2022) Manuel Zahn and Armaghan Ahmad Khan. Obstacle avoidance for blind people using a 3D camera and a haptic
